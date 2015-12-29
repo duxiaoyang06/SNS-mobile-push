@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="aws-android-sdk-apigateway-core-2.2.9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-apigateway-core-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-autoscaling-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-cloudwatch-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-core-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-ddb-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-ddb-mapper-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-ec2-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-elb-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-kinesis-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-lambda-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-machinelearning-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-mobileanalytics-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-s3-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-sdb-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-ses-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-sns-2.2.9.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/aws-android-sdk-2.2.9/lib/aws-android-sdk-sqs-2.2.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

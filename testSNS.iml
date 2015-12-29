@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="aws-android-sdk-apigateway-core-2.2.9" level="project" />
+    <orderEntry type="library" name="jackson-core-2.1.1" level="project" />
+    <orderEntry type="library" name="jackson-all-1.9.9" level="project" />
+    <orderEntry type="library" name="com.googlecode.jinahya:xmlpull-accessible:1.0-alpha-1" level="project" />
+    <orderEntry type="library" name="smack4" level="project" />
+    <orderEntry type="library" name="xpp3_min-1.1.4c" level="project" />
+    <orderEntry type="library" name="xmlpull-accessible-1.0-alpha-1" level="project" />
+  </component>
+</module>
